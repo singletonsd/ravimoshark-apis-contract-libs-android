@@ -216,7 +216,7 @@
     <repository>
       <id>github</id>
       <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/RavimoShark/apis-client-libs-android</url>
+      <url>https://maven.pkg.github.com/RavimoShark/apis-contract-libs-android</url>
     </repository>
   </distributionManagement>
   <properties>
